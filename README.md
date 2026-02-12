@@ -39,7 +39,7 @@ I enjoy exploring new technologies and building projects that combine **product 
 ---
 ## Technologies & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,git,unity,figma,mongodb,latex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,git,unity,pytorch,mongodb,latex,figma&theme=dark" />
 </p>
 
 ---
