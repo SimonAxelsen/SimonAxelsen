@@ -15,6 +15,9 @@ I enjoy exploring new technologies and building projects that combine **product 
   <a href="[https://www.linkedin.com/in/simon-ingemann-axelsen-32661a1b2/]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+    <a href="https://huggingface.co/Huggbottle">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
 </p>
 
 
